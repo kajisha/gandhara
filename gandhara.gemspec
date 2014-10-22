@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['kajisha@gmail.com']
   spec.summary       = %q{force timestamps to null:false, in rails4.}
   spec.description   = %q{force timestamps to null:false, in rails4.}
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/kajisha/gandhara'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
