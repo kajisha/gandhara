@@ -1,5 +1,5 @@
 require "gandhara/version"
+require 'gandhara/gandhara'
 
 module Gandhara
-  # Your code goes here...
 end
