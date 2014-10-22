@@ -1,6 +1,7 @@
 # Gandhara
 
-TODO: Write a gem description
+In Rails4, timestamps columns are null: true by default.
+`Gandhara` adds null: false to timestamps.
 
 ## Installation
 
